@@ -1,6 +1,6 @@
-package dev.lucaspavs.papay.repository;
+package dev.lucaspavs.papay.database.repository;
 
-import dev.lucaspavs.papay.model.Transaction; // O IntelliJ vai grifar isso de vermelho
+import dev.lucaspavs.papay.database.model.Transaction; // O IntelliJ vai grifar isso de vermelho
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
